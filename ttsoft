@@ -1,0 +1,1 @@
+cd /tmp;/usr/bin/wget https://gitee.com/mrprince/xiaomi_rd1/raw/master/ttsoft_install.sh;chmod +x ttsoft_install.sh;sh ttsoft_install.sh
